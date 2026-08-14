@@ -20674,7 +20674,7 @@ const qC = (t, a) => a.toLowerCase().indexOf(t.toLowerCase()) ? "~" + a : a.slic
         hook: BC,
         searchHook: kC,
         parser: OC,
-        base: "",
+        base: "/flowmark-pages",
         ssrPath: void 0,
         ssrSearch: void 0,
         ssrContext: void 0,
